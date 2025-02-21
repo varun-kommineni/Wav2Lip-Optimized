@@ -10,7 +10,6 @@ This optimization significantly improves performance when generating multiple li
 
 - **One-time face detection**: Face detection model runs only once regardless of how many audio files you process
 - **Modular design**: Introduced `process_audio_file` function to handle individual audio processing
-- **Faster batch processing**: Ideal for content creators who need to generate multiple language versions or audio variants
 
 ## Prerequisites
 
